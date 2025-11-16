@@ -1,0 +1,30 @@
+# Catkin/CMake build artifacts
+build/
+devel/
+logs/
+install/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Catkin workspace metadata
+.catkin_workspace
+.rosinstall
+.qtcreator*
+.idea/
+.vscode/
+
+# Scripts and tooling
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Misc
+*.log
+*.bag
